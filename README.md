@@ -1,6 +1,4 @@
-# team17
-
-* Team supervisor is Erick: eruiz@g.harvard.edu
+# Item-based Movie Recommendation with OpenMP and MPI
 
 ## Background and Porject Description
 Movie recommendation system has been a very important application of online video compary. The purpose of our project is to build an item-based collaborative filtering movie recommendation model with shared memory parallelism OpenMP and distributed memory parallelism MPI to improve the efficiency of movie recommendation process.
